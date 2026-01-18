@@ -23,6 +23,15 @@ This tool only automates the download process from official sources.
 
 ---
 
+## Install Dependencies
+After extracting the ZIP file, run:
+
+```bash
+npm install
+```
+
+---
+
 ## Usage
 
 ### Windows
